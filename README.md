@@ -27,7 +27,7 @@ Below is a high-level architecture diagram showcasing the interaction between va
 
 Below is a high-level workflow diagram showcasing the interaction among the user and the  various components in SamudraSuraksha:
 
-![Workflow Diagram](literate-octo-fortnight/assests/Flow.png)
+![Workflow Diagram](assests/Flow.png)
 
 ---
 
@@ -130,15 +130,15 @@ Contributions are welcome! Please fork this repository and create a pull request
 ## Screenshots
 
 ### Home Screen
-![Home Screen](literate-octo-fortnight/assests/homescreen.png)
+![Home Screen](assests/homescreen.png)
 
 ### Beach Details Screen
-![Beach Details Screen](literate-octo-fortnight/assests/BeachDetail.png)
+![Beach Details Screen](assests/BeachDetail.png)
 
 ### Search Screen
-![Search Screen](literate-octo-fortnight/assests/Search.png)
+![Search Screen](assests/Search.png)
 
 ### SOS Feature
-![SOS Screen](literate-octo-fortnight/assests/EmergencyALert.png)
+![SOS Screen](assests/EmergencyALert.png)
 
 ---
