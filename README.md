@@ -19,7 +19,7 @@ SamudraSuraksha is a mobile application designed to provide recreational suitabi
 
 Below is a high-level architecture diagram showcasing the interaction between various components in SamudraSuraksha:
 
-![Architecture Diagram](literate-octo-fortnight/assests/architecture.png)
+![Architecture Diagram](assests/architecture.png)
 
 ---
 
